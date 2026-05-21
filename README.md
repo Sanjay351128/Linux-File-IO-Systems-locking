@@ -74,7 +74,7 @@ int main(int argc, char *argv[]) {
 ```
 ## output
 
-![Alt text](image-1.png)
+![Alt text](ot1.png)
 
 
 
@@ -153,7 +153,7 @@ int main(int argc, char *argv[]) {
 ## OUTPUT
 
 ![Alt text](image-2.png)
-![Alt text](image-3.png)
+![Alt text](ot3.png)
 
 
 # RESULT:
